@@ -1,0 +1,4 @@
+node_modules/
+db_variables.js
+notes.txt
+email_database.sqlite
